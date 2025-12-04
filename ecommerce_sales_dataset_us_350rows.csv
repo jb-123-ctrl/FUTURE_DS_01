@@ -1,1 +1,351 @@
-
+Order_ID,Order_Date,Product,Category,Subcategory,Price,Quantity,Total_Sales,City,Customer
+ORD1001,2024-01-23,Sony Headphones,Electronics,Audio,830.73,5,4153.65,San Francisco,Customer_134
+ORD1002,2024-04-13,Yoga Mat,Sports,Fitness,639.31,1,639.31,Dallas,Customer_155
+ORD1003,2024-01-22,iPhone 14,Electronics,Mobiles,141.76,3,425.28,Chicago,Customer_28
+ORD1004,2024-02-07,Revlon Lipstick,Beauty,Cosmetics,1076.52,4,4306.08,Los Angeles,Customer_90
+ORD1005,2024-01-01,iPhone 14,Electronics,Mobiles,1002.83,1,1002.83,New York,Customer_20
+ORD1006,2023-04-03,Basketball,Sports,Outdoor,579.06,4,2316.24,Los Angeles,Customer_1
+ORD1007,2023-10-23,Dell Inspiron Laptop,Electronics,Laptops,1487.62,2,2975.24,Seattle,Customer_133
+ORD1008,2023-03-04,Adidas Hoodie,Clothing,Apparel,1444.79,4,5779.16,Houston,Customer_54
+ORD1009,2023-09-25,Samsung Galaxy S22,Electronics,Mobiles,590.68,3,1772.04,New York,Customer_18
+ORD1010,2023-10-11,iPhone 14,Electronics,Mobiles,77.43,1,77.43,Miami,Customer_4
+ORD1011,2024-01-04,Nike Running Shoes,Clothing,Footwear,247.64,3,742.92,Chicago,Customer_156
+ORD1012,2023-04-03,Nike Running Shoes,Clothing,Footwear,201.74,2,403.48,New York,Customer_174
+ORD1013,2023-08-02,Ergonomic Chair,Furniture,Office,394.3,3,1182.9,Dallas,Customer_125
+ORD1014,2023-10-11,Yoga Mat,Sports,Fitness,741.97,3,2225.91,New York,Customer_59
+ORD1015,2023-05-31,Adidas Hoodie,Clothing,Apparel,1021.95,3,3065.85,Houston,Customer_111
+ORD1016,2024-05-04,Sony Headphones,Electronics,Audio,1084.72,4,4338.88,Dallas,Customer_98
+ORD1017,2024-08-31,Dell Inspiron Laptop,Electronics,Laptops,923.82,2,1847.64,Chicago,Customer_11
+ORD1018,2023-02-24,Ergonomic Chair,Furniture,Office,1231.2,1,1231.2,Houston,Customer_100
+ORD1019,2024-12-11,Revlon Lipstick,Beauty,Cosmetics,793.85,2,1587.7,Miami,Customer_19
+ORD1020,2023-05-18,Sony Headphones,Electronics,Audio,1200.01,1,1200.01,Los Angeles,Customer_95
+ORD1021,2024-10-05,Sony Headphones,Electronics,Audio,302.22,2,604.44,Los Angeles,Customer_125
+ORD1022,2023-08-08,Adidas Hoodie,Clothing,Apparel,1147.53,1,1147.53,Los Angeles,Customer_88
+ORD1023,2023-03-01,Adidas Hoodie,Clothing,Apparel,1168.56,4,4674.24,Dallas,Customer_29
+ORD1024,2023-02-13,Sony Headphones,Electronics,Audio,934.07,3,2802.21,Seattle,Customer_75
+ORD1025,2024-07-25,Ergonomic Chair,Furniture,Office,1360.05,1,1360.05,Chicago,Customer_110
+ORD1026,2023-10-07,iPhone 14,Electronics,Mobiles,899.71,2,1799.42,Los Angeles,Customer_44
+ORD1027,2023-03-01,Dell Inspiron Laptop,Electronics,Laptops,1454.54,3,4363.62,Los Angeles,Customer_162
+ORD1028,2023-02-14,Adidas Hoodie,Clothing,Apparel,283.36,5,1416.8,New York,Customer_15
+ORD1029,2023-08-17,Yoga Mat,Sports,Fitness,1176.94,4,4707.76,Houston,Customer_96
+ORD1030,2023-11-24,iPhone 14,Electronics,Mobiles,898.48,5,4492.4,Chicago,Customer_140
+ORD1031,2023-07-03,Basketball,Sports,Outdoor,1493.9,2,2987.8,Houston,Customer_184
+ORD1032,2024-09-08,Nike Running Shoes,Clothing,Footwear,593.47,4,2373.88,Los Angeles,Customer_180
+ORD1033,2023-09-20,iPhone 14,Electronics,Mobiles,393.29,4,1573.16,Seattle,Customer_14
+ORD1034,2024-07-17,Revlon Lipstick,Beauty,Cosmetics,1322.91,2,2645.82,Miami,Customer_120
+ORD1035,2024-01-06,Yoga Mat,Sports,Fitness,1033.88,1,1033.88,Seattle,Customer_124
+ORD1036,2024-07-26,Basketball,Sports,Outdoor,762.09,4,3048.36,Chicago,Customer_102
+ORD1037,2023-03-26,Sony Headphones,Electronics,Audio,937.29,4,3749.16,Chicago,Customer_196
+ORD1038,2023-08-27,Yoga Mat,Sports,Fitness,773.52,2,1547.04,Houston,Customer_175
+ORD1039,2024-11-25,Samsung Galaxy S22,Electronics,Mobiles,42.09,2,84.18,Seattle,Customer_4
+ORD1040,2024-06-23,L'Oréal Shampoo,Beauty,Haircare,27.69,1,27.69,San Francisco,Customer_7
+ORD1041,2024-07-03,Revlon Lipstick,Beauty,Cosmetics,965.48,1,965.48,Dallas,Customer_162
+ORD1042,2024-10-19,Samsung Galaxy S22,Electronics,Mobiles,188.7,1,188.7,Miami,Customer_3
+ORD1043,2023-04-13,Samsung Galaxy S22,Electronics,Mobiles,1096.37,3,3289.11,Chicago,Customer_136
+ORD1044,2023-07-30,Samsung Galaxy S22,Electronics,Mobiles,1270.04,3,3810.12,New York,Customer_143
+ORD1045,2024-09-15,Samsung Galaxy S22,Electronics,Mobiles,990.76,2,1981.52,Houston,Customer_177
+ORD1046,2024-04-28,Ergonomic Chair,Furniture,Office,1289.34,2,2578.68,Miami,Customer_50
+ORD1047,2024-12-04,Ergonomic Chair,Furniture,Office,1106.29,3,3318.87,Miami,Customer_140
+ORD1048,2024-12-16,Revlon Lipstick,Beauty,Cosmetics,1414.07,1,1414.07,Houston,Customer_101
+ORD1049,2023-05-08,Basketball,Sports,Outdoor,828.57,2,1657.14,Miami,Customer_160
+ORD1050,2023-03-12,L'Oréal Shampoo,Beauty,Haircare,824.37,2,1648.74,Chicago,Customer_196
+ORD1051,2023-04-11,iPhone 14,Electronics,Mobiles,1464.79,1,1464.79,Chicago,Customer_8
+ORD1052,2023-10-16,iPhone 14,Electronics,Mobiles,1098.81,2,2197.62,Los Angeles,Customer_63
+ORD1053,2023-04-03,Sony Headphones,Electronics,Audio,1427.08,1,1427.08,New York,Customer_40
+ORD1054,2024-10-25,L'Oréal Shampoo,Beauty,Haircare,265.07,2,530.14,Seattle,Customer_128
+ORD1055,2024-09-16,Basketball,Sports,Outdoor,465.77,4,1863.08,New York,Customer_8
+ORD1056,2023-07-12,Ergonomic Chair,Furniture,Office,718.2,4,2872.8,Houston,Customer_68
+ORD1057,2024-10-13,Samsung Galaxy S22,Electronics,Mobiles,251.52,4,1006.08,Chicago,Customer_39
+ORD1058,2023-10-01,L'Oréal Shampoo,Beauty,Haircare,507.74,5,2538.7,Houston,Customer_124
+ORD1059,2024-09-23,iPhone 14,Electronics,Mobiles,1416.42,5,7082.1,New York,Customer_175
+ORD1060,2024-05-29,Dell Inspiron Laptop,Electronics,Laptops,883.68,2,1767.36,Seattle,Customer_27
+ORD1061,2024-01-15,iPhone 14,Electronics,Mobiles,619.53,2,1239.06,Los Angeles,Customer_171
+ORD1062,2024-09-27,Adidas Hoodie,Clothing,Apparel,1050.37,3,3151.11,Dallas,Customer_67
+ORD1063,2023-03-09,Basketball,Sports,Outdoor,1057.79,5,5288.95,Seattle,Customer_19
+ORD1064,2024-01-28,Nike Running Shoes,Clothing,Footwear,272.2,4,1088.8,Dallas,Customer_14
+ORD1065,2024-05-16,Dell Inspiron Laptop,Electronics,Laptops,724.78,1,724.78,Dallas,Customer_14
+ORD1066,2024-05-13,Ergonomic Chair,Furniture,Office,109.5,4,438.0,Seattle,Customer_161
+ORD1067,2024-01-27,Adidas Hoodie,Clothing,Apparel,678.46,2,1356.92,Seattle,Customer_45
+ORD1068,2023-04-22,L'Oréal Shampoo,Beauty,Haircare,69.9,2,139.8,New York,Customer_176
+ORD1069,2023-09-11,Nike Running Shoes,Clothing,Footwear,1434.54,3,4303.62,New York,Customer_75
+ORD1070,2024-04-23,Sony Headphones,Electronics,Audio,368.08,3,1104.24,Los Angeles,Customer_174
+ORD1071,2023-10-09,iPhone 14,Electronics,Mobiles,755.23,4,3020.92,Los Angeles,Customer_138
+ORD1072,2023-09-04,Dell Inspiron Laptop,Electronics,Laptops,1303.74,4,5214.96,San Francisco,Customer_75
+ORD1073,2024-06-12,Ergonomic Chair,Furniture,Office,1160.32,4,4641.28,Houston,Customer_174
+ORD1074,2024-12-16,Adidas Hoodie,Clothing,Apparel,994.08,5,4970.4,Seattle,Customer_12
+ORD1075,2024-05-18,Wooden Office Desk,Furniture,Office,1478.27,2,2956.54,Dallas,Customer_39
+ORD1076,2023-08-28,L'Oréal Shampoo,Beauty,Haircare,1160.42,5,5802.1,Los Angeles,Customer_110
+ORD1077,2024-02-18,Revlon Lipstick,Beauty,Cosmetics,125.79,3,377.37,New York,Customer_64
+ORD1078,2023-04-24,Basketball,Sports,Outdoor,928.96,1,928.96,Houston,Customer_178
+ORD1079,2023-08-29,Adidas Hoodie,Clothing,Apparel,553.62,1,553.62,Chicago,Customer_139
+ORD1080,2023-12-03,Nike Running Shoes,Clothing,Footwear,1069.78,1,1069.78,Seattle,Customer_134
+ORD1081,2023-12-07,Yoga Mat,Sports,Fitness,724.89,3,2174.67,Houston,Customer_61
+ORD1082,2024-01-05,L'Oréal Shampoo,Beauty,Haircare,372.75,3,1118.25,New York,Customer_104
+ORD1083,2024-06-25,Wooden Office Desk,Furniture,Office,983.5,4,3934.0,Los Angeles,Customer_167
+ORD1084,2024-06-06,Ergonomic Chair,Furniture,Office,218.5,4,874.0,Dallas,Customer_194
+ORD1085,2023-12-26,Revlon Lipstick,Beauty,Cosmetics,1404.36,1,1404.36,Houston,Customer_196
+ORD1086,2024-10-20,Dell Inspiron Laptop,Electronics,Laptops,277.96,2,555.92,Dallas,Customer_141
+ORD1087,2023-03-25,Sony Headphones,Electronics,Audio,23.67,4,94.68,Los Angeles,Customer_135
+ORD1088,2024-10-01,Basketball,Sports,Outdoor,1208.87,2,2417.74,Miami,Customer_70
+ORD1089,2024-01-29,Ergonomic Chair,Furniture,Office,1066.75,4,4267.0,San Francisco,Customer_1
+ORD1090,2023-01-21,Dell Inspiron Laptop,Electronics,Laptops,442.57,5,2212.85,Miami,Customer_65
+ORD1091,2024-09-02,Ergonomic Chair,Furniture,Office,281.28,1,281.28,Houston,Customer_152
+ORD1092,2024-11-09,Nike Running Shoes,Clothing,Footwear,818.46,2,1636.92,Houston,Customer_142
+ORD1093,2023-08-03,Nike Running Shoes,Clothing,Footwear,831.56,3,2494.68,New York,Customer_157
+ORD1094,2024-07-23,L'Oréal Shampoo,Beauty,Haircare,1329.17,3,3987.51,Houston,Customer_9
+ORD1095,2024-04-11,L'Oréal Shampoo,Beauty,Haircare,1207.25,3,3621.75,Dallas,Customer_167
+ORD1096,2023-06-19,Samsung Galaxy S22,Electronics,Mobiles,35.86,4,143.44,San Francisco,Customer_173
+ORD1097,2023-02-14,Nike Running Shoes,Clothing,Footwear,1236.39,2,2472.78,New York,Customer_75
+ORD1098,2023-05-29,Yoga Mat,Sports,Fitness,1156.48,4,4625.92,Houston,Customer_176
+ORD1099,2023-01-03,Revlon Lipstick,Beauty,Cosmetics,831.76,4,3327.04,Los Angeles,Customer_21
+ORD1100,2023-11-08,Samsung Galaxy S22,Electronics,Mobiles,396.09,1,396.09,Miami,Customer_96
+ORD1101,2023-01-25,Dell Inspiron Laptop,Electronics,Laptops,246.88,1,246.88,San Francisco,Customer_17
+ORD1102,2024-06-24,Basketball,Sports,Outdoor,875.11,3,2625.33,Chicago,Customer_48
+ORD1103,2024-06-21,Sony Headphones,Electronics,Audio,1214.26,2,2428.52,San Francisco,Customer_140
+ORD1104,2024-07-29,L'Oréal Shampoo,Beauty,Haircare,128.94,2,257.88,Los Angeles,Customer_94
+ORD1105,2024-08-07,Dell Inspiron Laptop,Electronics,Laptops,818.83,2,1637.66,Los Angeles,Customer_170
+ORD1106,2024-01-25,Samsung Galaxy S22,Electronics,Mobiles,800.25,4,3201.0,Dallas,Customer_172
+ORD1107,2024-09-29,L'Oréal Shampoo,Beauty,Haircare,1132.23,4,4528.92,Dallas,Customer_47
+ORD1108,2024-07-03,Revlon Lipstick,Beauty,Cosmetics,756.56,4,3026.24,Dallas,Customer_137
+ORD1109,2024-06-11,Sony Headphones,Electronics,Audio,569.32,5,2846.6,Houston,Customer_82
+ORD1110,2024-09-03,Revlon Lipstick,Beauty,Cosmetics,1064.42,5,5322.1,San Francisco,Customer_76
+ORD1111,2023-08-27,Sony Headphones,Electronics,Audio,207.93,1,207.93,Miami,Customer_12
+ORD1112,2024-08-10,Adidas Hoodie,Clothing,Apparel,822.42,1,822.42,Miami,Customer_24
+ORD1113,2024-10-02,Yoga Mat,Sports,Fitness,16.05,1,16.05,Houston,Customer_29
+ORD1114,2024-03-31,Revlon Lipstick,Beauty,Cosmetics,135.23,5,676.15,Seattle,Customer_61
+ORD1115,2023-05-17,L'Oréal Shampoo,Beauty,Haircare,1209.08,3,3627.24,San Francisco,Customer_87
+ORD1116,2024-02-07,Basketball,Sports,Outdoor,1450.66,2,2901.32,Chicago,Customer_39
+ORD1117,2023-03-08,Sony Headphones,Electronics,Audio,738.09,1,738.09,Los Angeles,Customer_172
+ORD1118,2023-06-09,Yoga Mat,Sports,Fitness,1017.73,2,2035.46,Houston,Customer_160
+ORD1119,2023-11-03,Yoga Mat,Sports,Fitness,1307.14,2,2614.28,New York,Customer_78
+ORD1120,2024-10-09,Dell Inspiron Laptop,Electronics,Laptops,683.98,1,683.98,Seattle,Customer_151
+ORD1121,2023-08-03,Sony Headphones,Electronics,Audio,1465.25,1,1465.25,Seattle,Customer_175
+ORD1122,2023-10-23,iPhone 14,Electronics,Mobiles,1323.93,5,6619.65,Seattle,Customer_136
+ORD1123,2024-09-02,Yoga Mat,Sports,Fitness,666.66,1,666.66,Los Angeles,Customer_166
+ORD1124,2024-11-29,Basketball,Sports,Outdoor,383.3,2,766.6,Chicago,Customer_105
+ORD1125,2024-09-16,Sony Headphones,Electronics,Audio,1144.38,4,4577.52,Miami,Customer_56
+ORD1126,2023-09-25,Wooden Office Desk,Furniture,Office,1492.88,4,5971.52,New York,Customer_49
+ORD1127,2024-06-01,Basketball,Sports,Outdoor,1375.27,3,4125.81,Los Angeles,Customer_183
+ORD1128,2023-04-06,Wooden Office Desk,Furniture,Office,831.62,1,831.62,Dallas,Customer_5
+ORD1129,2023-09-05,Nike Running Shoes,Clothing,Footwear,1249.6,2,2499.2,Seattle,Customer_60
+ORD1130,2023-09-20,iPhone 14,Electronics,Mobiles,1494.96,5,7474.8,Dallas,Customer_145
+ORD1131,2023-08-02,Adidas Hoodie,Clothing,Apparel,244.87,5,1224.35,Houston,Customer_73
+ORD1132,2023-10-28,Ergonomic Chair,Furniture,Office,828.81,5,4144.05,Seattle,Customer_126
+ORD1133,2023-05-22,Dell Inspiron Laptop,Electronics,Laptops,660.35,4,2641.4,New York,Customer_150
+ORD1134,2024-10-09,Dell Inspiron Laptop,Electronics,Laptops,1308.03,5,6540.15,Miami,Customer_144
+ORD1135,2023-12-07,Basketball,Sports,Outdoor,211.15,3,633.45,Houston,Customer_76
+ORD1136,2023-01-14,Nike Running Shoes,Clothing,Footwear,594.96,3,1784.88,Dallas,Customer_126
+ORD1137,2023-11-29,Sony Headphones,Electronics,Audio,565.97,3,1697.91,Miami,Customer_18
+ORD1138,2024-07-24,Yoga Mat,Sports,Fitness,226.55,4,906.2,Chicago,Customer_123
+ORD1139,2023-11-30,Basketball,Sports,Outdoor,342.82,1,342.82,Dallas,Customer_49
+ORD1140,2024-06-10,iPhone 14,Electronics,Mobiles,1485.33,1,1485.33,Dallas,Customer_173
+ORD1141,2023-11-11,Adidas Hoodie,Clothing,Apparel,206.38,3,619.14,Chicago,Customer_188
+ORD1142,2023-03-04,iPhone 14,Electronics,Mobiles,562.48,2,1124.96,New York,Customer_200
+ORD1143,2024-02-27,Samsung Galaxy S22,Electronics,Mobiles,158.12,4,632.48,Chicago,Customer_45
+ORD1144,2023-11-22,Nike Running Shoes,Clothing,Footwear,801.88,1,801.88,New York,Customer_179
+ORD1145,2023-12-09,Dell Inspiron Laptop,Electronics,Laptops,1398.0,4,5592.0,New York,Customer_45
+ORD1146,2024-10-09,L'Oréal Shampoo,Beauty,Haircare,517.14,2,1034.28,Chicago,Customer_135
+ORD1147,2023-08-23,iPhone 14,Electronics,Mobiles,1252.48,1,1252.48,Dallas,Customer_45
+ORD1148,2024-01-07,Yoga Mat,Sports,Fitness,1143.77,5,5718.85,Dallas,Customer_69
+ORD1149,2024-12-09,Revlon Lipstick,Beauty,Cosmetics,475.74,4,1902.96,Houston,Customer_165
+ORD1150,2024-08-06,Sony Headphones,Electronics,Audio,257.97,3,773.91,Chicago,Customer_63
+ORD1151,2024-02-06,Adidas Hoodie,Clothing,Apparel,86.41,4,345.64,Dallas,Customer_161
+ORD1152,2024-09-30,Wooden Office Desk,Furniture,Office,900.89,5,4504.45,San Francisco,Customer_187
+ORD1153,2023-02-08,Samsung Galaxy S22,Electronics,Mobiles,509.24,3,1527.72,San Francisco,Customer_2
+ORD1154,2023-11-15,Wooden Office Desk,Furniture,Office,179.2,2,358.4,Seattle,Customer_163
+ORD1155,2023-12-04,iPhone 14,Electronics,Mobiles,348.56,2,697.12,Houston,Customer_60
+ORD1156,2024-10-01,iPhone 14,Electronics,Mobiles,1333.33,4,5333.32,Los Angeles,Customer_64
+ORD1157,2023-04-14,Nike Running Shoes,Clothing,Footwear,621.49,4,2485.96,Dallas,Customer_15
+ORD1158,2023-02-07,Wooden Office Desk,Furniture,Office,988.02,1,988.02,New York,Customer_51
+ORD1159,2024-04-20,Yoga Mat,Sports,Fitness,1476.79,1,1476.79,Miami,Customer_88
+ORD1160,2024-09-19,Yoga Mat,Sports,Fitness,490.22,2,980.44,Chicago,Customer_90
+ORD1161,2024-12-15,Basketball,Sports,Outdoor,1198.11,1,1198.11,Los Angeles,Customer_132
+ORD1162,2023-09-27,Sony Headphones,Electronics,Audio,637.23,2,1274.46,Seattle,Customer_117
+ORD1163,2024-06-26,Revlon Lipstick,Beauty,Cosmetics,937.04,5,4685.2,Houston,Customer_100
+ORD1164,2024-12-21,Nike Running Shoes,Clothing,Footwear,497.28,3,1491.84,Los Angeles,Customer_40
+ORD1165,2023-12-28,Yoga Mat,Sports,Fitness,439.31,5,2196.55,San Francisco,Customer_5
+ORD1166,2024-03-13,Revlon Lipstick,Beauty,Cosmetics,585.6,5,2928.0,Chicago,Customer_145
+ORD1167,2024-06-01,iPhone 14,Electronics,Mobiles,1345.88,1,1345.88,Dallas,Customer_153
+ORD1168,2024-07-04,L'Oréal Shampoo,Beauty,Haircare,1119.73,4,4478.92,Chicago,Customer_38
+ORD1169,2023-09-22,Nike Running Shoes,Clothing,Footwear,532.24,2,1064.48,Dallas,Customer_101
+ORD1170,2023-05-16,Adidas Hoodie,Clothing,Apparel,392.58,1,392.58,Seattle,Customer_105
+ORD1171,2023-06-25,L'Oréal Shampoo,Beauty,Haircare,514.52,3,1543.56,San Francisco,Customer_100
+ORD1172,2023-06-01,Dell Inspiron Laptop,Electronics,Laptops,1461.49,5,7307.45,Los Angeles,Customer_9
+ORD1173,2023-08-30,Nike Running Shoes,Clothing,Footwear,1057.22,4,4228.88,Houston,Customer_52
+ORD1174,2023-09-26,Dell Inspiron Laptop,Electronics,Laptops,787.01,4,3148.04,Seattle,Customer_45
+ORD1175,2024-06-24,Yoga Mat,Sports,Fitness,651.24,3,1953.72,Houston,Customer_83
+ORD1176,2023-06-11,Samsung Galaxy S22,Electronics,Mobiles,156.53,5,782.65,Los Angeles,Customer_188
+ORD1177,2024-05-24,Nike Running Shoes,Clothing,Footwear,1260.7,2,2521.4,Dallas,Customer_167
+ORD1178,2024-11-25,Samsung Galaxy S22,Electronics,Mobiles,633.35,2,1266.7,New York,Customer_102
+ORD1179,2023-04-17,L'Oréal Shampoo,Beauty,Haircare,75.79,5,378.95,Dallas,Customer_162
+ORD1180,2024-10-07,L'Oréal Shampoo,Beauty,Haircare,981.92,4,3927.68,Seattle,Customer_86
+ORD1181,2024-03-27,Dell Inspiron Laptop,Electronics,Laptops,63.14,2,126.28,Dallas,Customer_63
+ORD1182,2023-05-14,iPhone 14,Electronics,Mobiles,1108.64,5,5543.2,Seattle,Customer_101
+ORD1183,2024-01-01,L'Oréal Shampoo,Beauty,Haircare,465.41,5,2327.05,New York,Customer_160
+ORD1184,2023-04-07,Basketball,Sports,Outdoor,66.09,3,198.27,Seattle,Customer_44
+ORD1185,2023-02-07,Dell Inspiron Laptop,Electronics,Laptops,1348.29,5,6741.45,Chicago,Customer_87
+ORD1186,2024-01-11,Yoga Mat,Sports,Fitness,203.09,1,203.09,Miami,Customer_151
+ORD1187,2023-09-29,Dell Inspiron Laptop,Electronics,Laptops,145.84,5,729.2,Seattle,Customer_171
+ORD1188,2023-01-16,Nike Running Shoes,Clothing,Footwear,1015.67,4,4062.68,Houston,Customer_154
+ORD1189,2023-01-29,Wooden Office Desk,Furniture,Office,1282.6,5,6413.0,New York,Customer_170
+ORD1190,2024-04-15,Dell Inspiron Laptop,Electronics,Laptops,813.43,1,813.43,San Francisco,Customer_107
+ORD1191,2023-07-16,Nike Running Shoes,Clothing,Footwear,410.01,5,2050.05,Miami,Customer_3
+ORD1192,2023-08-20,L'Oréal Shampoo,Beauty,Haircare,372.79,5,1863.95,Houston,Customer_121
+ORD1193,2024-05-06,Dell Inspiron Laptop,Electronics,Laptops,308.17,2,616.34,New York,Customer_89
+ORD1194,2024-06-18,Sony Headphones,Electronics,Audio,334.08,2,668.16,Dallas,Customer_190
+ORD1195,2023-08-28,Adidas Hoodie,Clothing,Apparel,1357.33,5,6786.65,Dallas,Customer_45
+ORD1196,2023-11-07,Wooden Office Desk,Furniture,Office,964.02,5,4820.1,San Francisco,Customer_75
+ORD1197,2024-11-20,Revlon Lipstick,Beauty,Cosmetics,753.81,1,753.81,Houston,Customer_150
+ORD1198,2024-05-20,Revlon Lipstick,Beauty,Cosmetics,959.41,3,2878.23,Chicago,Customer_106
+ORD1199,2023-09-20,Adidas Hoodie,Clothing,Apparel,144.44,5,722.2,San Francisco,Customer_74
+ORD1200,2024-09-10,L'Oréal Shampoo,Beauty,Haircare,909.97,5,4549.85,San Francisco,Customer_115
+ORD1201,2024-12-10,L'Oréal Shampoo,Beauty,Haircare,530.21,4,2120.84,San Francisco,Customer_183
+ORD1202,2024-06-05,Samsung Galaxy S22,Electronics,Mobiles,124.35,1,124.35,Los Angeles,Customer_176
+ORD1203,2024-08-18,Revlon Lipstick,Beauty,Cosmetics,910.72,5,4553.6,San Francisco,Customer_67
+ORD1204,2023-10-18,Basketball,Sports,Outdoor,502.83,3,1508.49,Miami,Customer_188
+ORD1205,2024-01-21,L'Oréal Shampoo,Beauty,Haircare,34.7,1,34.7,Houston,Customer_118
+ORD1206,2023-08-09,Adidas Hoodie,Clothing,Apparel,723.94,3,2171.82,Los Angeles,Customer_182
+ORD1207,2023-05-03,Sony Headphones,Electronics,Audio,1055.36,2,2110.72,Houston,Customer_67
+ORD1208,2024-09-29,Nike Running Shoes,Clothing,Footwear,1383.26,1,1383.26,New York,Customer_8
+ORD1209,2023-03-07,Sony Headphones,Electronics,Audio,376.17,4,1504.68,New York,Customer_136
+ORD1210,2024-10-31,iPhone 14,Electronics,Mobiles,1212.38,2,2424.76,Los Angeles,Customer_107
+ORD1211,2024-05-27,Revlon Lipstick,Beauty,Cosmetics,79.62,2,159.24,Houston,Customer_154
+ORD1212,2023-06-23,Adidas Hoodie,Clothing,Apparel,197.52,2,395.04,Seattle,Customer_21
+ORD1213,2024-05-15,Revlon Lipstick,Beauty,Cosmetics,63.65,4,254.6,Miami,Customer_66
+ORD1214,2024-06-05,Wooden Office Desk,Furniture,Office,517.51,2,1035.02,Dallas,Customer_193
+ORD1215,2023-11-25,Ergonomic Chair,Furniture,Office,920.24,1,920.24,Seattle,Customer_178
+ORD1216,2024-09-16,Revlon Lipstick,Beauty,Cosmetics,226.17,2,452.34,Miami,Customer_9
+ORD1217,2024-08-13,Samsung Galaxy S22,Electronics,Mobiles,1030.69,2,2061.38,Chicago,Customer_87
+ORD1218,2023-04-20,Yoga Mat,Sports,Fitness,1076.67,5,5383.35,Los Angeles,Customer_42
+ORD1219,2023-10-09,L'Oréal Shampoo,Beauty,Haircare,1448.11,1,1448.11,Miami,Customer_197
+ORD1220,2023-11-19,Ergonomic Chair,Furniture,Office,889.04,2,1778.08,Miami,Customer_197
+ORD1221,2024-05-08,iPhone 14,Electronics,Mobiles,1366.27,1,1366.27,Chicago,Customer_11
+ORD1222,2024-06-30,Samsung Galaxy S22,Electronics,Mobiles,992.39,3,2977.17,New York,Customer_80
+ORD1223,2024-10-31,Ergonomic Chair,Furniture,Office,1408.67,3,4226.01,Dallas,Customer_88
+ORD1224,2023-09-30,Adidas Hoodie,Clothing,Apparel,982.85,2,1965.7,San Francisco,Customer_33
+ORD1225,2023-05-15,L'Oréal Shampoo,Beauty,Haircare,1406.34,2,2812.68,Seattle,Customer_100
+ORD1226,2024-04-05,Yoga Mat,Sports,Fitness,537.98,4,2151.92,Miami,Customer_31
+ORD1227,2023-05-14,Basketball,Sports,Outdoor,252.01,4,1008.04,San Francisco,Customer_127
+ORD1228,2024-11-18,L'Oréal Shampoo,Beauty,Haircare,635.33,2,1270.66,San Francisco,Customer_84
+ORD1229,2024-09-29,Ergonomic Chair,Furniture,Office,769.53,4,3078.12,Los Angeles,Customer_176
+ORD1230,2024-08-12,Sony Headphones,Electronics,Audio,725.3,4,2901.2,New York,Customer_124
+ORD1231,2023-08-23,Basketball,Sports,Outdoor,1495.25,1,1495.25,Miami,Customer_106
+ORD1232,2024-06-01,Wooden Office Desk,Furniture,Office,1416.88,5,7084.4,Houston,Customer_115
+ORD1233,2024-04-25,Wooden Office Desk,Furniture,Office,400.0,4,1600.0,Miami,Customer_132
+ORD1234,2023-05-18,Yoga Mat,Sports,Fitness,19.79,3,59.37,Chicago,Customer_85
+ORD1235,2024-02-02,Samsung Galaxy S22,Electronics,Mobiles,722.0,4,2888.0,Dallas,Customer_8
+ORD1236,2023-01-14,Samsung Galaxy S22,Electronics,Mobiles,267.18,5,1335.9,Chicago,Customer_41
+ORD1237,2024-04-14,L'Oréal Shampoo,Beauty,Haircare,1221.57,4,4886.28,Chicago,Customer_98
+ORD1238,2023-08-09,Revlon Lipstick,Beauty,Cosmetics,1030.46,2,2060.92,Miami,Customer_22
+ORD1239,2023-08-30,Dell Inspiron Laptop,Electronics,Laptops,1206.51,5,6032.55,Chicago,Customer_129
+ORD1240,2023-05-03,Wooden Office Desk,Furniture,Office,908.21,4,3632.84,Miami,Customer_15
+ORD1241,2023-08-18,Dell Inspiron Laptop,Electronics,Laptops,632.94,5,3164.7,Seattle,Customer_16
+ORD1242,2024-10-03,Basketball,Sports,Outdoor,884.77,3,2654.31,Los Angeles,Customer_190
+ORD1243,2024-04-02,Nike Running Shoes,Clothing,Footwear,987.3,4,3949.2,Chicago,Customer_24
+ORD1244,2024-10-31,Wooden Office Desk,Furniture,Office,1382.21,2,2764.42,Miami,Customer_97
+ORD1245,2023-06-20,Wooden Office Desk,Furniture,Office,335.0,4,1340.0,Chicago,Customer_179
+ORD1246,2023-10-08,Yoga Mat,Sports,Fitness,1441.97,1,1441.97,Seattle,Customer_108
+ORD1247,2024-06-12,Samsung Galaxy S22,Electronics,Mobiles,691.56,1,691.56,New York,Customer_191
+ORD1248,2024-11-18,Ergonomic Chair,Furniture,Office,1380.88,1,1380.88,Dallas,Customer_78
+ORD1249,2024-04-03,Sony Headphones,Electronics,Audio,535.59,3,1606.77,New York,Customer_58
+ORD1250,2023-08-23,Basketball,Sports,Outdoor,1352.57,3,4057.71,Miami,Customer_120
+ORD1251,2023-11-02,Ergonomic Chair,Furniture,Office,359.59,4,1438.36,Miami,Customer_79
+ORD1252,2023-01-26,iPhone 14,Electronics,Mobiles,1104.32,5,5521.6,New York,Customer_129
+ORD1253,2024-02-11,Revlon Lipstick,Beauty,Cosmetics,1476.85,2,2953.7,New York,Customer_110
+ORD1254,2023-03-30,L'Oréal Shampoo,Beauty,Haircare,255.25,3,765.75,Chicago,Customer_182
+ORD1255,2023-08-25,Nike Running Shoes,Clothing,Footwear,39.3,4,157.2,New York,Customer_69
+ORD1256,2023-03-15,Basketball,Sports,Outdoor,248.56,1,248.56,Seattle,Customer_125
+ORD1257,2023-02-08,L'Oréal Shampoo,Beauty,Haircare,520.62,3,1561.86,Houston,Customer_176
+ORD1258,2023-11-10,Yoga Mat,Sports,Fitness,1390.08,4,5560.32,Seattle,Customer_73
+ORD1259,2023-04-13,Basketball,Sports,Outdoor,992.68,3,2978.04,San Francisco,Customer_124
+ORD1260,2024-10-01,iPhone 14,Electronics,Mobiles,332.64,2,665.28,Houston,Customer_190
+ORD1261,2024-06-09,Nike Running Shoes,Clothing,Footwear,445.81,5,2229.05,Houston,Customer_106
+ORD1262,2024-06-20,Sony Headphones,Electronics,Audio,850.47,5,4252.35,Dallas,Customer_17
+ORD1263,2024-12-10,Dell Inspiron Laptop,Electronics,Laptops,466.19,5,2330.95,New York,Customer_194
+ORD1264,2023-04-22,Basketball,Sports,Outdoor,1164.93,5,5824.65,Chicago,Customer_175
+ORD1265,2023-09-23,Nike Running Shoes,Clothing,Footwear,610.74,3,1832.22,New York,Customer_128
+ORD1266,2024-04-08,Yoga Mat,Sports,Fitness,790.23,1,790.23,Los Angeles,Customer_173
+ORD1267,2023-02-01,iPhone 14,Electronics,Mobiles,1224.56,5,6122.8,New York,Customer_198
+ORD1268,2024-11-11,Ergonomic Chair,Furniture,Office,66.33,4,265.32,Los Angeles,Customer_19
+ORD1269,2023-08-15,Sony Headphones,Electronics,Audio,916.41,1,916.41,Chicago,Customer_29
+ORD1270,2024-04-28,Sony Headphones,Electronics,Audio,91.54,3,274.62,Seattle,Customer_151
+ORD1271,2023-06-16,Adidas Hoodie,Clothing,Apparel,95.85,2,191.7,New York,Customer_130
+ORD1272,2024-07-27,Dell Inspiron Laptop,Electronics,Laptops,811.84,2,1623.68,San Francisco,Customer_28
+ORD1273,2023-05-09,L'Oréal Shampoo,Beauty,Haircare,1394.53,4,5578.12,Los Angeles,Customer_76
+ORD1274,2024-04-21,Ergonomic Chair,Furniture,Office,1452.5,5,7262.5,Los Angeles,Customer_190
+ORD1275,2024-01-10,iPhone 14,Electronics,Mobiles,677.88,3,2033.64,San Francisco,Customer_116
+ORD1276,2023-06-03,L'Oréal Shampoo,Beauty,Haircare,1339.37,2,2678.74,San Francisco,Customer_20
+ORD1277,2023-10-23,L'Oréal Shampoo,Beauty,Haircare,810.31,2,1620.62,San Francisco,Customer_127
+ORD1278,2023-02-10,Dell Inspiron Laptop,Electronics,Laptops,977.88,5,4889.4,Seattle,Customer_40
+ORD1279,2024-07-07,Wooden Office Desk,Furniture,Office,1196.25,2,2392.5,San Francisco,Customer_38
+ORD1280,2023-07-18,Nike Running Shoes,Clothing,Footwear,561.28,5,2806.4,New York,Customer_176
+ORD1281,2024-11-28,Basketball,Sports,Outdoor,1303.66,2,2607.32,New York,Customer_66
+ORD1282,2024-07-13,Nike Running Shoes,Clothing,Footwear,1033.45,2,2066.9,Dallas,Customer_53
+ORD1283,2023-02-15,Sony Headphones,Electronics,Audio,1262.69,5,6313.45,Seattle,Customer_191
+ORD1284,2023-12-06,Basketball,Sports,Outdoor,481.42,4,1925.68,Seattle,Customer_83
+ORD1285,2024-02-13,Sony Headphones,Electronics,Audio,173.83,2,347.66,Seattle,Customer_15
+ORD1286,2024-09-27,Samsung Galaxy S22,Electronics,Mobiles,148.5,5,742.5,New York,Customer_111
+ORD1287,2024-08-10,Yoga Mat,Sports,Fitness,607.86,1,607.86,Miami,Customer_195
+ORD1288,2023-02-15,iPhone 14,Electronics,Mobiles,101.06,1,101.06,Los Angeles,Customer_59
+ORD1289,2023-04-18,Wooden Office Desk,Furniture,Office,475.96,3,1427.88,Chicago,Customer_178
+ORD1290,2024-07-07,Yoga Mat,Sports,Fitness,645.33,4,2581.32,Dallas,Customer_143
+ORD1291,2023-04-30,iPhone 14,Electronics,Mobiles,29.89,2,59.78,Dallas,Customer_75
+ORD1292,2023-07-01,Ergonomic Chair,Furniture,Office,438.25,1,438.25,Los Angeles,Customer_50
+ORD1293,2024-11-26,Sony Headphones,Electronics,Audio,125.3,4,501.2,San Francisco,Customer_160
+ORD1294,2023-11-20,Nike Running Shoes,Clothing,Footwear,1392.17,3,4176.51,Houston,Customer_137
+ORD1295,2024-11-15,Nike Running Shoes,Clothing,Footwear,1093.79,3,3281.37,Seattle,Customer_37
+ORD1296,2024-07-04,Revlon Lipstick,Beauty,Cosmetics,197.84,3,593.52,Dallas,Customer_154
+ORD1297,2024-12-17,Sony Headphones,Electronics,Audio,747.98,2,1495.96,San Francisco,Customer_52
+ORD1298,2023-03-08,Wooden Office Desk,Furniture,Office,1221.92,5,6109.6,Houston,Customer_63
+ORD1299,2023-06-25,Revlon Lipstick,Beauty,Cosmetics,62.25,3,186.75,Dallas,Customer_169
+ORD1300,2024-07-31,Samsung Galaxy S22,Electronics,Mobiles,392.76,3,1178.28,San Francisco,Customer_188
+ORD1301,2024-01-27,Sony Headphones,Electronics,Audio,1376.82,2,2753.64,New York,Customer_149
+ORD1302,2024-11-18,Wooden Office Desk,Furniture,Office,159.62,4,638.48,Los Angeles,Customer_159
+ORD1303,2023-06-12,Dell Inspiron Laptop,Electronics,Laptops,536.42,4,2145.68,Chicago,Customer_199
+ORD1304,2023-11-14,iPhone 14,Electronics,Mobiles,225.13,4,900.52,Houston,Customer_52
+ORD1305,2024-09-25,Samsung Galaxy S22,Electronics,Mobiles,627.5,3,1882.5,San Francisco,Customer_160
+ORD1306,2024-11-14,Basketball,Sports,Outdoor,1217.22,2,2434.44,Dallas,Customer_17
+ORD1307,2024-08-19,Sony Headphones,Electronics,Audio,306.89,5,1534.45,Miami,Customer_122
+ORD1308,2024-05-30,Sony Headphones,Electronics,Audio,1468.08,3,4404.24,Houston,Customer_196
+ORD1309,2023-05-18,Adidas Hoodie,Clothing,Apparel,480.22,1,480.22,San Francisco,Customer_118
+ORD1310,2023-09-08,Basketball,Sports,Outdoor,38.43,2,76.86,New York,Customer_142
+ORD1311,2023-01-31,Adidas Hoodie,Clothing,Apparel,13.5,4,54.0,Houston,Customer_51
+ORD1312,2024-07-26,Wooden Office Desk,Furniture,Office,596.18,5,2980.9,Seattle,Customer_33
+ORD1313,2023-06-12,Yoga Mat,Sports,Fitness,1134.22,4,4536.88,Dallas,Customer_22
+ORD1314,2023-05-10,Sony Headphones,Electronics,Audio,673.24,1,673.24,Los Angeles,Customer_1
+ORD1315,2024-02-14,Dell Inspiron Laptop,Electronics,Laptops,1120.9,1,1120.9,San Francisco,Customer_70
+ORD1316,2024-07-24,iPhone 14,Electronics,Mobiles,592.63,1,592.63,Houston,Customer_128
+ORD1317,2023-09-25,L'Oréal Shampoo,Beauty,Haircare,978.88,3,2936.64,Los Angeles,Customer_30
+ORD1318,2024-02-28,Samsung Galaxy S22,Electronics,Mobiles,331.29,5,1656.45,Los Angeles,Customer_200
+ORD1319,2024-12-13,Samsung Galaxy S22,Electronics,Mobiles,182.35,5,911.75,San Francisco,Customer_199
+ORD1320,2023-11-21,Wooden Office Desk,Furniture,Office,238.63,1,238.63,Chicago,Customer_7
+ORD1321,2023-10-17,iPhone 14,Electronics,Mobiles,63.75,5,318.75,New York,Customer_96
+ORD1322,2024-01-26,Ergonomic Chair,Furniture,Office,864.43,3,2593.29,New York,Customer_80
+ORD1323,2024-09-22,Sony Headphones,Electronics,Audio,763.87,2,1527.74,Dallas,Customer_193
+ORD1324,2023-03-28,iPhone 14,Electronics,Mobiles,1019.42,1,1019.42,New York,Customer_143
+ORD1325,2023-07-13,Ergonomic Chair,Furniture,Office,497.04,2,994.08,Houston,Customer_137
+ORD1326,2024-08-22,Yoga Mat,Sports,Fitness,1171.38,3,3514.14,Los Angeles,Customer_35
+ORD1327,2024-11-28,Sony Headphones,Electronics,Audio,601.78,4,2407.12,Seattle,Customer_72
+ORD1328,2024-11-02,Revlon Lipstick,Beauty,Cosmetics,656.71,3,1970.13,Chicago,Customer_22
+ORD1329,2024-08-28,Nike Running Shoes,Clothing,Footwear,1136.62,5,5683.1,Chicago,Customer_162
+ORD1330,2023-07-03,Basketball,Sports,Outdoor,435.79,1,435.79,New York,Customer_97
+ORD1331,2024-02-08,Revlon Lipstick,Beauty,Cosmetics,1176.47,2,2352.94,New York,Customer_92
+ORD1332,2023-02-05,Wooden Office Desk,Furniture,Office,837.55,3,2512.65,Los Angeles,Customer_147
+ORD1333,2023-05-24,Dell Inspiron Laptop,Electronics,Laptops,1432.02,2,2864.04,San Francisco,Customer_112
+ORD1334,2024-11-25,Ergonomic Chair,Furniture,Office,909.56,2,1819.12,San Francisco,Customer_119
+ORD1335,2023-07-31,Revlon Lipstick,Beauty,Cosmetics,1391.44,2,2782.88,Houston,Customer_173
+ORD1336,2024-10-31,Dell Inspiron Laptop,Electronics,Laptops,340.3,5,1701.5,Miami,Customer_3
+ORD1337,2024-11-20,Nike Running Shoes,Clothing,Footwear,657.93,4,2631.72,Los Angeles,Customer_103
+ORD1338,2024-12-07,Nike Running Shoes,Clothing,Footwear,188.79,1,188.79,New York,Customer_63
+ORD1339,2023-09-24,Basketball,Sports,Outdoor,256.72,4,1026.88,Los Angeles,Customer_171
+ORD1340,2023-05-12,L'Oréal Shampoo,Beauty,Haircare,1077.42,4,4309.68,Los Angeles,Customer_194
+ORD1341,2023-01-03,Samsung Galaxy S22,Electronics,Mobiles,531.78,1,531.78,Chicago,Customer_199
+ORD1342,2024-11-28,Ergonomic Chair,Furniture,Office,887.0,3,2661.0,Los Angeles,Customer_177
+ORD1343,2023-04-19,Wooden Office Desk,Furniture,Office,1072.54,1,1072.54,Los Angeles,Customer_161
+ORD1344,2024-05-23,Revlon Lipstick,Beauty,Cosmetics,801.94,5,4009.7,Miami,Customer_153
+ORD1345,2023-10-31,Adidas Hoodie,Clothing,Apparel,1132.48,4,4529.92,New York,Customer_37
+ORD1346,2023-08-08,Basketball,Sports,Outdoor,187.09,1,187.09,Los Angeles,Customer_116
+ORD1347,2024-08-20,Samsung Galaxy S22,Electronics,Mobiles,972.57,4,3890.28,Dallas,Customer_4
+ORD1348,2023-06-07,Sony Headphones,Electronics,Audio,1228.57,4,4914.28,Houston,Customer_97
+ORD1349,2023-07-15,iPhone 14,Electronics,Mobiles,1113.3,2,2226.6,Houston,Customer_105
+ORD1350,2024-05-10,Sony Headphones,Electronics,Audio,433.25,1,433.25,San Francisco,Customer_116
